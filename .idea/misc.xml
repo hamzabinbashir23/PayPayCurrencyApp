@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/.gradle/caches/transforms-2/files-2.1/f78d6f14fa274d78c48a393da45e3ae7/appcompat-1.2.0/res/layout/support_simple_spinner_dropdown_item.xml" value="0.3546875" />
+        <entry key="..\:/Users/Admin/Desktop/PayPay/Android-PayPay-CodingChallange-main/app/src/main/res/layout/activity_main.xml" value="0.14" />
+        <entry key="..\:/Users/Admin/Desktop/PayPay/Android-PayPay-CodingChallange-main/app/src/main/res/layout/fragment_currency.xml" value="0.3546875" />
+        <entry key="..\:/Users/Admin/Desktop/PayPay/Android-PayPay-CodingChallange-main/app/src/main/res/layout/fragment_currency_list.xml" value="0.3546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
